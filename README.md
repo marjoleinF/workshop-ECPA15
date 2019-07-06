@@ -1,4 +1,4 @@
-# workshop ECPA15
+# Decision tree methods, workshop @ ECPA15 Brussels, July 7 2019
 
 Here you can find the materials for ECPA15 workshop on decision tree methods for psychological assessment.
 
