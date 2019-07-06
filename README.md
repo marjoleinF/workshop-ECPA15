@@ -1,2 +1,9 @@
-# workshop-ECPA15
-Materials for workshop on decision tree methods for psychological assessment @ ECPA15, Brussels
+# workshop ECPA15
+
+Here you can find the materials for ECPA15 workshop on decision tree methods for psychological assessment.
+
+The file 'slides.pdf' contains the presentation slides.
+
+The file 'Fitting-trees-in-R.pdf' contains R code, instructions, results and explanations.
+
+Files with the extensions '.txt' contain the data for replicating the examples.
