@@ -6,4 +6,4 @@ The file 'slides.pdf' contains the presentation slides.
 
 The file 'Fitting-trees-in-R.pdf' contains R code, instructions, results and explanations.
 
-Files with the extensions '.txt' contain the data for replicating the examples.
+Files ending with '.txt' contain the data for replicating the examples.
